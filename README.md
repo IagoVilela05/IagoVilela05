@@ -1,8 +1,8 @@
 # Olá, eu sou o Iago! 🇧🇷 / Hi, I'm Iago! 🇺🇸
 
-Estudante da **UNIFEI** e Estagiário de Software (Computação Gráfica e Desenvolvimento) no projeto de P&D **VR-Mining 789D** (Parceria UNIFEI & Vale). Sou um desenvolvedor focado no ecossistema Python, apaixonado por resolver problemas reais da indústria através de visão computacional, processamento de dados e simulações.
+Estudante da **UNIFEI** e Estagiário de Software (Computação Gráfica e Desenvolvimento) no projeto de P&D **VR-Mining 789D** (Parceria UNIFEI & Vale). Sou um desenvolvedor focado no ecossistema Python e C/C++, apaixonado por resolver problemas reais da indústria através de visão computacional, processamento de dados e simulações de baixo nível.
 
-Student at **UNIFEI** and Software Intern (Computer Graphics & Development) on the **VR-Mining 789D** R&D project (UNIFEI & Vale partnership). I'm a developer focused on the Python ecosystem, passionate about solving real-world industry problems through computer vision, data processing, and simulations.
+Student at **UNIFEI** and Software Intern (Computer Graphics & Development) on the **VR-Mining 789D** R&D project (UNIFEI & Vale partnership). I'm a developer focused on the Python and C/C++ ecosystems, passionate about solving real-world industry problems through computer vision, data processing, and low-level simulations.
 
 ---
 
@@ -16,8 +16,8 @@ Student at **UNIFEI** and Software Intern (Computer Graphics & Development) on t
 ### 🛠️ Tech Stack & Skills
 
 #### **Linguagens & Backend** 💻
-* **Languages:** Python, HTML5, CSS3.
-* **Focus:** Desenvolvimento de software, automação de fluxos e estruturação de rotinas.
+* **Languages:** Python, C, C++, HTML5, CSS3.
+* **Focus:** Desenvolvimento de software, automação de fluxos, sistemas operacionais e concorrência.
 
 #### **Processamento de Dados & Visão Computacional** 🌍
 * **Libraries:** OpenCV, NumPy, Shapely, PyProj.
@@ -27,16 +27,17 @@ Student at **UNIFEI** and Software Intern (Computer Graphics & Development) on t
 
 ### 🔬 Projetos em Destaque / Featured Projects
 
-* **[VR-Mining 789D - Geoprocessamento](https://github.com/Iago-Vilela/projeto-VR-Mining-789D):** Pipeline automatizado em Python para extrair rotas de imagens de satélite do campus da UNIFEI e convertê-las em mapas HD (formato Lanelet2) para o simulador. 
-* **[NOME DO NOVO PROJETO 1](#):** [Breve descrição em português e inglês que vamos adicionar].
-* **[NOME DO NOVO PROJETO 2](#):** [Breve descrição em português e inglês que vamos adicionar].
+* **[VR-Mining 789D - Geoprocessamento](https://github.com/Iago-Vilela/projeto-VR-Mining-789D):** Pipeline automatizado em Python para extrair rotas de imagens de satélite do campus e convertê-las em mapas HD (formato Lanelet2) para o simulador autônomo.
+* **[Linux Custom Syscall & POSIX Signals](https://github.com/Iago-Vilela/linux-custom-syscall):** Modificação direta no código-fonte do Kernel Linux (v5.19.1) para adição de uma *system call* customizada, com integração no *userspace* via programa C++ e manipulação de sinais.
+* **[Thread Synchronization: Supply Chain](https://github.com/Iago-Vilela/cpp-thread-sync):** Simulação do problema Produtor-Consumidor em C++ utilizando a biblioteca padrão de *threads*. Implementação do padrão *Monitor* com *Mutex* e variáveis de condição para controle de concorrência.
 
 ---
 
 ### 🔭 Objetivos / Goals
 
-Busco oportunidades e desafios que me permitam aprimorar minhas habilidades em Python, contribuir para projetos de inovação e criar ferramentas que gerem impacto tecnológico real.
+Busco oportunidades e desafios que me permitam aprimorar minhas habilidades em desenvolvimento de software, contribuir para projetos de inovação e criar ferramentas que gerem impacto tecnológico real.
 
-Looking for opportunities and challenges that allow me to improve my Python skills, contribute to innovation projects, and build tools that make a real technological impact.
+Looking for opportunities and challenges that allow me to improve my software development skills, contribute to innovation projects, and build tools that make a real technological impact.
 
 ---
+
