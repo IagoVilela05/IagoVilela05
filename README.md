@@ -1,6 +1,6 @@
 # Olá, eu sou o Iago! 🇧🇷 / Hi, I'm Iago! 🇺🇸
 
-Estudante da **UNIFEI** e Estagiário de Software (Computação Gráfica e Desenvolvimento) no projeto **VR-Mining 789D** (Parceria UNIFEI & Vale). Sou um desenvolvedor focado no ecossistema Python e C/C++, apaixonado por resolver problemas reais da indústria através de visão computacional, processamento de dados e simulações de baixo nível.
+Estudante da **UNIFEI** e Estagiário de Software (Computação Gráfica e Desenvolvimento) no projeto **VR-Mining 789D** (Parceria UNIFEI & Vale). Sou um desenvolvedor focado no ecossistema Python e C/C++, interessado na resolução de problemas reais da indústria através de visão computacional, processamento de dados e simulações de baixo nível.
 
 Student at **UNIFEI** and Software Intern (Computer Graphics & Development) on the **VR-Mining 789D** project (UNIFEI & Vale partnership). I'm a developer focused on the Python and C/C++ ecosystems, passionate about solving real-world industry problems through computer vision, data processing, and low-level simulations.
 
@@ -27,9 +27,10 @@ Student at **UNIFEI** and Software Intern (Computer Graphics & Development) on t
 
 ### 🔬 Projetos em Destaque / Featured Projects
 
-* **[VR-Mining 789D - Geoprocessamento](https://github.com/Iago-Vilela/projeto-VR-Mining-789D):** Pipeline automatizado em Python para extrair rotas de imagens de satélite do campus e convertê-las em mapas HD (formato Lanelet2) para o simulador autônomo.
-* **[Linux Custom Syscall & POSIX Signals](https://github.com/Iago-Vilela/linux-custom-syscall):** Modificação direta no código-fonte do Kernel Linux (v5.19.1) para adição de uma *system call* customizada, com integração no *userspace* via programa C++ e manipulação de sinais.
-* **[Thread Synchronization: Supply Chain](https://github.com/Iago-Vilela/cpp-thread-sync):** Simulação do problema Produtor-Consumidor em C++ utilizando a biblioteca padrão de *threads*. Implementação do padrão *Monitor* com *Mutex* e variáveis de condição para controle de concorrência.
+* **[VR-Mining 789D - Geoprocessamento](https://github.com/Iago-VVilela/projeto-VR-Mining-789D):** Pipeline automatizado em Python para extrair rotas de imagens de satélite do campus e convertê-las em mapas HD (formato Lanelet2) para o simulador autônomo.
+* **[Linux Custom Syscall & POSIX Signals](https://github.com/Iago-VVilela/linux-custom-syscall):** Modificação direta no código-fonte do Kernel Linux (v5.19.1) para adição de uma *system call* customizada, com integração no *userspace* via programa C++ e manipulação de sinais.
+* **[Thread Synchronization: Supply Chain](https://github.com/Iago-VVilela/cpp-thread-sync):** Simulação do problema Produtor-Consumidor em C++ utilizando a biblioteca padrão de *threads*. Implementação do padrão *Monitor* com *Mutex* e variáveis de condição para controle de concorrência.
+* **[Project Elo-Maluco](https://github.com/Iago-VVilela/project-Elo-Maluco):** Desenvolvimento de algoritmo para resolução do quebra-cabeça lógico "Elo Maluco", explorando estruturas de dados e lógica de programação para encontrar a combinação correta de cores.
 
 ---
 
